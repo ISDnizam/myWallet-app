@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138036802788",
+    "firebase_url": "https://mywallet-6e914.firebaseio.com",
+    "project_id": "mywallet-6e914",
+    "storage_bucket": "mywallet-6e914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138036802788:android:dba91239f62d0d327668f1",
+        "android_client_info": {
+          "package_name": "com.nizam.TabunganKu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138036802788-c824782ogujsqlpgo3pa7l9sfemqfjcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc62pypjLlOUUFbbjB54Qz7WMRut2sCjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138036802788-c824782ogujsqlpgo3pa7l9sfemqfjcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
